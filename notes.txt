@@ -1,0 +1,5 @@
+npm init 
+npm i typescript
+tsc --init
+in scripts "tsc": "tsc"
+npm run tsc -- --init    or tsc --init
